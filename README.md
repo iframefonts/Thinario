@@ -1,32 +1,20 @@
 
-![Sample Image](documentation/image1.png)
-![Sample Image](documentation/image2.png)
+![Sample Image](documentation/THINARIO-01.png)
+![Sample Image](documentation/THINARIO-02.png)
+![Sample Image](documentation/THINARIO-03.png)
+![Sample Image](documentation/THINARIO-04.png)
+![Sample Image](documentation/THINARIO-05.png)
+![Sample Image](documentation/THINARIO-06.png)
+
 
 ## About
 
-Description of you and/or organisation goes here.
-
-## Building
-
-Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
-
-If you want to build fonts manually on your own computer:
-
-* `make build` will produce font files.
-* `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
-* `make proof` will generate HTML proof files.
-
-The proof files and QA tests are also available automatically via GitHub Actions - look at `https://yourname.github.io/your-font-repository-name`.
+Thinario is a sans serif typeface by iframe type foundry
 
 ## Changelog
 
-When you update your font (new version or new release), please report all notable changes here, with a date.
-[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
-Changelog example:
-
-**26 May 2021. Version 2.13**
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
+**17 Jun 2025. Version 1.1**
+- UPLOAD FILES
 
 ## License
 
