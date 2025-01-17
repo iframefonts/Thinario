@@ -1,4 +1,4 @@
-Copyright 20** The My Font Project Authors (https://github.com/googlefonts/googlefonts-project-template)
+Copyright 2025 Thinario Sans Georgios Chalkidis iFRAME TYPE FOUNDRY (https://github.com/iframefonts/Thinario)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -6,7 +6,7 @@ https://openfontlicense.org
 
 
 -----------------------------------------------------------
-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+SIL OPEN FONT LICENSE Version 1.1 - 17 JANUARY 2025
 -----------------------------------------------------------
 
 PREAMBLE
