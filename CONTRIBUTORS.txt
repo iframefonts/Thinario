@@ -9,6 +9,5 @@
 # Names should be added to this file as:
 # Name <email address>
 
-iFRAME TYPE FOUNDRY
-Georgios Chalkidis
-iframefonts@gmail.com
+iFRAME TYPE FOUNDRY <iframefonts@gmail.com>
+Georgios Chalkidis <georgioschalkidis@gmail.com>
