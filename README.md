@@ -13,10 +13,9 @@ Thinario is a sans serif typeface by iframe type foundry
 
 ## Foundry information:
 
-Hi, we are iframe type foundry.
-Discover beautifully designed, latin and greek fonts, that elevate your projects from digital screens to printed masterpieces.
+iframe Type Foundry is dedicated to crafting beautifully designed Latin and Greek fonts that enhance projects across digital and print media.
 
-The production of custom typefaces is an integral part of the iframe design studio approach and typography exploration. Our team is a mix of creative visual designers who developed typefaces for and alongside specific graphic design projects. We appreciate the value that typography brings to brands and their audiences.
+The production of custom typefaces is a core element of iframe's design studio approach and typography exploration. Their team, a blend of creative visual designers, develops typefaces tailored to specific graphic design projects. iframe values the impact that thoughtful typography can have on brands and their audiences.
 
 Website: https://iframefonts.com
 
